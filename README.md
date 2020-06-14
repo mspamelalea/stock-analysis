@@ -1,7 +1,7 @@
 # stock-analysis
 VBA Excel worksheet that shows stock volume, starting value and ending value from yearly worksheet data
 
-##Challenge
+## Challenge
 Green Stock Analysis 
 Prepared for: Steve
 By: Pam Hamrick on 06/14/2020
